@@ -19,7 +19,7 @@ Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` 
 
 <p align="center">
   
-<img src="https://" width="360" height="800">
+<img src="https://github.com/phpdias/cara_ou_coroa/blob/main/images/init1.jpg" width="360" height="800">
 
 </p>
 
@@ -27,7 +27,9 @@ Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` 
 
 <p align="center">
   
-<img src="https://" width="1000" height="800">
+<img src="https://github.com/phpdias/cara_ou_coroa/blob/main/images/cara.jpg" width="360" height="800">
+
+<img src="https://github.com/phpdias/cara_ou_coroa/blob/main/images/coroa.jpg" width="360" height="800">
 
 </p> 
 
